@@ -1,3 +1,8 @@
-node_modules/*
+.idea
+node_modules
 .env
+package-lock.json
+coverage
 config/database/test.json
+*/.DS_Store
+.DS_Store
